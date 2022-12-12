@@ -1,0 +1,1 @@
+select s.*, s.PostalCode as Zip from Students as s;

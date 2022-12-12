@@ -1,0 +1,1 @@
+select * from Students where City not in ("Sint Maarten", "Haiti");
